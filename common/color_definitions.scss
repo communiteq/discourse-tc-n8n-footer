@@ -1,0 +1,11 @@
+$foot-link-item: dark-light-choose(#101330, #f3f3f6);
+$footer-bottom-text: dark-light-choose(#707183, #aaa);
+$show-on-dark: dark-light-choose(none, block);
+$show-on-light: dark-light-choose(block, none);
+
+:root {
+  --foot-link-item: #{$foot-link-item};
+  --footer-bottom-text: #{$footer-bottom-text};
+  --show-on-dark: #{$show-on-dark};
+  --show-on-light: #{$show-on-light};
+}
