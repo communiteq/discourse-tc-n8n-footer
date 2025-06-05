@@ -4,10 +4,15 @@
   "license_url": null,
   "about_url": null,
   "authors": "Communiteq",
-  "theme_version": "2024.10.21",
+  "theme_version": "2025.06.05",
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
   "assets": {
+    "logo_discord": "assets/discord.svg",
+    "logo_github": "assets/github.svg",
+    "logo_linkedin": "assets/linkedin.svg",
+    "logo_twitter": "assets/twitter.svg",
+    "logo_youtube": "assets/youtube.svg"
   },
   "color_schemes": {
   },
